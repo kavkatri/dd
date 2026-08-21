@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2000 2000">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #fa0f0c;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+
+      .st1 {
+        stroke: #169133;
+      }
+    </style>
+  </defs>
+  <g id="LWPOLYLINE">
+    <line class="st1" x1="847.13" y1="589.55" x2="847.13" y2="967.39"/>
+  </g>
+  <g id="LWPOLYLINE1" data-name="LWPOLYLINE">
+    <line class="st1" x1="865.44" y1="589.55" x2="865.44" y2="967.39"/>
+  </g>
+  <g id="LWPOLYLINE2" data-name="LWPOLYLINE">
+    <line class="st1" x1="1191.91" y1="589.55" x2="1191.91" y2="967.39"/>
+  </g>
+  <g id="LWPOLYLINE3" data-name="LWPOLYLINE">
+    <line class="st1" x1="1209.2" y1="589.55" x2="1209.2" y2="745.63"/>
+  </g>
+  <g id="LWPOLYLINE4" data-name="LWPOLYLINE">
+    <line class="st1" x1="1209.2" y1="967.39" x2="1209.2" y2="810.37"/>
+  </g>
+  <g id="LWPOLYLINE5" data-name="LWPOLYLINE">
+    <line class="st0" x1="520.15" y1="589.55" x2="520.15" y2="745.24"/>
+  </g>
+  <g id="LWPOLYLINE6" data-name="LWPOLYLINE">
+    <line class="st0" x1="520.15" y1="967.39" x2="520.15" y2="810.77"/>
+  </g>
+  <g id="LWPOLYLINE7" data-name="LWPOLYLINE">
+    <line class="st0" x1="1233.52" y1="589.55" x2="1233.52" y2="967.39"/>
+  </g>
+  <g id="LWPOLYLINE8" data-name="LWPOLYLINE">
+    <line class="st0" x1="520.15" y1="589.55" x2="1233.52" y2="589.55"/>
+  </g>
+  <g id="LWPOLYLINE9" data-name="LWPOLYLINE">
+    <polyline class="st0" points="1208.18 743.5 1211.23 745.87 1211.23 808.79 1208.18 811.16"/>
+  </g>
+  <g id="LWPOLYLINE10" data-name="LWPOLYLINE">
+    <line class="st1" x1="521.68" y1="746.27" x2="521.68" y2="808.39"/>
+  </g>
+  <g id="LWPOLYLINE11" data-name="LWPOLYLINE">
+    <polyline class="st0" points="521.68 746.27 520.15 746.27 520.15 743.89"/>
+  </g>
+  <g id="LWPOLYLINE12" data-name="LWPOLYLINE">
+    <polyline class="st0" points="521.68 808.39 520.15 808.39 520.15 810.77"/>
+  </g>
+  <g id="LWPOLYLINE13" data-name="LWPOLYLINE">
+    <polyline class="st0" points="520.15 743.89 502.86 746.27 502.86 808.39 520.15 810.77"/>
+  </g>
+  <g id="LWPOLYLINE14" data-name="LWPOLYLINE">
+    <line class="st1" x1="1029.06" y1="967.39" x2="1192.29" y2="967.39"/>
+  </g>
+  <g id="LWPOLYLINE15" data-name="LWPOLYLINE">
+    <line class="st0" x1="520.15" y1="967.39" x2="1029.06" y2="967.39"/>
+  </g>
+  <g id="LWPOLYLINE16" data-name="LWPOLYLINE">
+    <line class="st0" x1="1233.52" y1="967.39" x2="1162.33" y2="967.39"/>
+  </g>
+</svg>
